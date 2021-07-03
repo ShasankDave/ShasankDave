@@ -4,7 +4,7 @@ I feel Data Science field is just like me #CuriousChild!
 
 # Sofware Engineer | DataScience Explorer | Curious Child
 
-- 🔭 I’m currently working on: Kaggle Notebooks in my freetime on Weekends.
+- 🔭 I’m currently working on: Kaggle Notebooks in my freetime on weekends.
 - 🌱 I’m currently learning: Tensorflow
 - 👯 I’m looking to collaborate on: Kaggle Competitions(To Get Started)
 - 🤔 I’m looking for help with : Writing Datascience blog posts & Mentoring on Data science projects
