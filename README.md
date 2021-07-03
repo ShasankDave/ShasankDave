@@ -10,7 +10,6 @@ I feel Data Science field is just like me #CuriousChild!
 - 🤔 I’m looking for help with : Writing Datascience blog posts & Mentoring on Data science projects
 - 💬 Ask me about: "Ask me anything about data!"
 - 📫 How to reach me: shasankdave@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: StayCurious & Experimenting in life!
 
 # DataScience Learning via MOOCs so far :
