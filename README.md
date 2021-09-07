@@ -2,7 +2,7 @@
 I am Shasank Dave, A software engineer(GoLang|Ab>Initio) with agile mindset, On journey of learning Data Science & ML concepts.</br>
 I feel Data Science field is just like me #CuriousChild!
 
-# Sofware Engineer | DataScience Explorer | Curious Child
+# Sofware Engineer | Google Tensorflow Developer Certified | DataScience Explorer | Curious Child
 
 - 🔭 I’m currently working on: Kaggle Notebooks in my freetime on weekends.
 - 🌱 I’m currently learning: Tensorflow
@@ -13,6 +13,7 @@ I feel Data Science field is just like me #CuriousChild!
 - ⚡ Fun fact: StayCurious & Experimenting in life!
 
 # DataScience Learning via MOOCs so far :
+[Google Tensorflow Certified](https://www.credential.net/a19b5937-1ae2-4119-8e58-4143ee1b6590) <br/>
 [IBM Data Science Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/SBHQ52YBWSWE) <br/>
 [DeepLearning.AI Tensorflow Developer](https://www.coursera.org/account/accomplishments/specialization/certificate/YXDQ8EGP95TC) <br/>
 [DataCamp: Data Scientist with python track](https://www.datacamp.com/statement-of-accomplishment/track/ccb4ffeba9febfa6dce4d09f0a302af2695b801e) <br/>
