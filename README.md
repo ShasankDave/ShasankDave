@@ -1,6 +1,5 @@
 ### Hi Folks! 👋
 I am Shasank Dave, A software engineer(GoLang|Ab>Initio) with agile mindset, On journey of learning Data Science & ML concepts.</br>
-I feel Data Science field is just like me #CuriousChild!
 
 ## Sofware Engineer | Google Tensorflow Certified | DataScience Explorer | Curious Child
 
