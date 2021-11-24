@@ -18,6 +18,7 @@ A software engineer(GoLang|Ab>Initio) with agile mindset, On journey of learning
 [DeepLearning.AI Tensorflow Developer](https://www.coursera.org/account/accomplishments/specialization/certificate/YXDQ8EGP95TC) <br/>
 [DataCamp: Data Scientist with python track](https://www.datacamp.com/statement-of-accomplishment/track/ccb4ffeba9febfa6dce4d09f0a302af2695b801e) <br/>
 [Google Data Analytics Professional](https://coursera.org/share/4501cc94cd0e8a49b20edfba0a28bde2) <br/>
+[AWS Deeplearning Practical Data Science](https://coursera.org/share/e2ab55b37b4e90f1c199b7c8971e3fee) <br/>
 
 # Agile/Scrum :
 ![image info](./psmi.png) [Professional Scrum Master] (https://www.scrum.org/certificates/377755) 
