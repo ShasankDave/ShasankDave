@@ -1,8 +1,8 @@
 ### Hi Folks! 👋
-I am Shasank Dave :)
+I am Shasank Dave
 A software engineer(GoLang|Ab>Initio) with agile mindset, On journey of learning Data Science & ML concepts.</br>
 
-## Software Engineer | Google Tensorflow Certified | DataScience Explorer | Curious Child
+## Software Engineer | Google Tensorflow Certified | Exploring DataScience | Curious Child
 
 - 🔭 I’m currently working on: Kaggle Notebooks in my freetime on weekends.
 - 🌱 I’m currently learning: Pyspark & Tableau
@@ -10,7 +10,7 @@ A software engineer(GoLang|Ab>Initio) with agile mindset, On journey of learning
 - 🤔 I’m looking for help with : Writing Datascience blog posts & Mentoring on Data science projects
 - 💬 Ask me about: "Ask me anything about data!"
 - 📫 How to reach me: shasankdave@gmail.com
-- ⚡ Fun fact: StayCurious & Experimenting in life!
+- ⚡ Fun fact: StayCurious & Experimenting!
 
 # DataScience Learning via MOOCs so far :
 [Google Tensorflow Certified](https://www.credential.net/a19b5937-1ae2-4119-8e58-4143ee1b6590) <br/>
@@ -19,6 +19,7 @@ A software engineer(GoLang|Ab>Initio) with agile mindset, On journey of learning
 [DataCamp: Data Scientist with python track](https://www.datacamp.com/statement-of-accomplishment/track/ccb4ffeba9febfa6dce4d09f0a302af2695b801e) <br/>
 [Google Data Analytics Professional](https://coursera.org/share/4501cc94cd0e8a49b20edfba0a28bde2) <br/>
 [AWS Deeplearning Practical Data Science](https://coursera.org/share/e2ab55b37b4e90f1c199b7c8971e3fee) <br/>
+[DataCamp: Tableau Fundamentals](https://www.datacamp.com/statement-of-accomplishment/track/291b0da5a59e2b7b585255572ab44b79f0bf2b3a) <br/>
 
 # Agile/Scrum :
 ![image info](./psmi.png) [Professional Scrum Master] (https://www.scrum.org/certificates/377755) 
