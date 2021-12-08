@@ -1,6 +1,7 @@
 ### Hi Folks! 👋
-I am Shasank Dave [Portfolio Website](https://shasankdave.github.io/) <br/>
+I am Shasank Dave 
 A software engineer(GoLang|Ab>Initio) with agile mindset, On journey of learning Data Science & ML concepts.</br>
+[Portfolio Website](https://shasankdave.github.io/) <br/>
 
 ## Software Engineer | Google Tensorflow Certified | Exploring DataScience | Curious Child
 
