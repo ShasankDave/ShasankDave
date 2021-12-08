@@ -1,13 +1,13 @@
 ### Hi Folks! 👋
-I am Shasank Dave
+I am Shasank Dave [Portfolio Website](https://shasankdave.github.io/) <br/>
 A software engineer(GoLang|Ab>Initio) with agile mindset, On journey of learning Data Science & ML concepts.</br>
 
 ## Software Engineer | Google Tensorflow Certified | Exploring DataScience | Curious Child
 
-- 🔭 I’m currently working on: Kaggle Notebooks in my freetime on weekends.
-- 🌱 I’m currently learning: Pyspark & Tableau
-- 👯 I’m looking to collaborate on: Kaggle Competitions(To Get Started)
-- 🤔 I’m looking for help with : Writing Datascience blog posts & Mentoring on Data science projects
+- 🔭 I’m currently working on: Building my DataScience portfolio.
+- 🌱 I’m currently learning: Pyspark
+- 👯 I’m looking to collaborate on: Kaggle Competitions/Data Science for social good projects
+- 🤔 I’m looking for help with : Project guidance for my portfolio
 - 💬 Ask me about: "Ask me anything about data!"
 - 📫 How to reach me: shasankdave@gmail.com
 - ⚡ Fun fact: StayCurious & Experimenting!
