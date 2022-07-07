@@ -3,7 +3,7 @@ I am Shasank Dave
 A software engineer(GoLang|Ab>Initio) with agile mindset, On journey of learning Data Science & ML concepts.</br>
 [Portfolio Website](https://shasankdave.github.io/) <br/>
 
-## Software Engineer(GoLang) | Google Tensorflow Certified | Exploring DS/ML on Google Cloud Platform
+## Software Engineer | Google Tensorflow Certified | Exploring Data&ML Things on GCP
 
 ![Image](https://cdn.dribbble.com/users/82162/screenshots/3579187/staycurious_wip.gif)
 
